@@ -1,0 +1,52 @@
+.heading {
+    width:100%;
+    text-align:left;
+    background-color:rgb(240, 186, 213);
+}
+
+.heading h3 {
+    display:inline;
+    color:rgb(47, 49, 51);
+    font-weight:bold;
+    font-size:27px;
+}
+
+.heading button {
+    float:right;
+    border:2px solid white;
+    color:rgb(47, 49, 51);
+    font-weight:bold;
+    background-color:rgb(240, 186, 213);
+    font-size:17px;
+}
+
+#start , #status , #restart {
+    font-size:22px;
+    color:rgb(166, 236, 167);
+    background-color:rgb(65, 64, 64);
+    font-weight:bold;
+    border-radius:5px;
+    border-style:solid;
+    border-color:rgb(166, 236, 167);
+    border-width:2px;
+}
+
+.modal-dialog {
+    width:90%;
+}
+
+.instruction-image {
+    display: inline-block;
+    width:45%;
+}
+
+.copy-right_footer {
+    background-color:rgb(185, 173, 173);
+    color:black;
+    font-weight:bold;
+    font-size:20px;
+    padding:15px;
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
